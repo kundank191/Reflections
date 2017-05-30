@@ -16,6 +16,8 @@ organized? How would branches help?
  another one. We can deal with them individually
 
 How do the diagrams help you visualize the branch structure?
+ It tells the inter relation in between nodes. And when a particular branch is made.
+ It can tell if a node is in detached head state or not.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
