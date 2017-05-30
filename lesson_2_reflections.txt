@@ -11,6 +11,9 @@ We can compare staging area to the working directory by using git diff to be sur
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+ Branches can be really useful if we want to give multiple feature to our code without combining these
+ features. It will be easier to checkout a particular feature in one branch and another feature in 
+ another one. We can deal with them individually
 
 How do the diagrams help you visualize the branch structure?
 
